@@ -1,5 +1,5 @@
 # Template Generator
-Template Generator is a frontend standalone library that generates HTML templates by uploading PDF files. It is currently in development phase and aims to support other file extensions in the future.
+Template Generator will become a frontend standalone library that generates HTML templates by uploading PDF files. It is currently in development phase and aims to support other file extensions in the future.
 
 # Installation
 To use Template Generator, you can clone the repository from GitHub and run the following commands in your terminal:
