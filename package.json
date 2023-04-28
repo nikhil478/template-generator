@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "extract-text": "node extractText.js",
+    "generate-template": "node generateTemplate.js"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.7",
+    "pdf.js-extract": "^0.2.1",
+    "pdfjs-dist": "^3.5.141"
+  }
+}
